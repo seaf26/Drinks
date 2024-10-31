@@ -144,7 +144,7 @@ export default function Footer() {
             </div>
             <div className="mt-16 border-t border-gray-400/30 pt-8 sm:mt-20 lg:mt-24">
                 <div className="text-md text-center text-white">
-                     © 2024 . Made by Assem 
+                     © 2024 . Made by Seaf Gamel 
                 </div>
             </div>
         </div>
